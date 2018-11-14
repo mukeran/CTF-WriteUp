@@ -6,7 +6,7 @@
 ----
 这道题真的挺水的。  
 1. 打开网址，发现提示“请从本地访问”，这时就想可能是用 `X-Forwarded-For` 伪造本地请求。
-2. 使用 BurpSuite 抓包，在 header 中加入 `X-Forwarded-For: 172.0.0.1`，Go，得到 flag
+2. 使用 BurpSuite 抓包，在 header 中加入 `X-Forwarded-For: 127.0.0.1`，Go，得到 flag
 
 [这是一个神奇的登录框 - Bugku](http://ctf.bugku.com/challenges#%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E7%99%BB%E9%99%86%E6%A1%86 "前往Bugku")
 ----
