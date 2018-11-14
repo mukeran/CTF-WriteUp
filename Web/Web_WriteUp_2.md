@@ -14,7 +14,7 @@
 1. 打开网址，发现有一个 Form 。二话不说，直接查看源码，分析 Form 结构。
 2. 发现 Form 没啥特殊的，于是随便填一个内容，然后 BurpSuite 抓包。
 3. 尝试 `'`，发现没有没有报错。尝试 `"`，发现报错。这个题竟然偷偷用双引号！说明可以注入。
-4. 二话不说，保存 header，终端使用 sqlmap。`sqlmap.py -p "header" --dbs`，成功！
+4. 二话不说，保存 header，终端使用 sqlmap。`sqlmap.py -r "header" -p "admin_name" --dbs`，成功！
 5. 一顿熟悉的 sqlmap 操作，flag GET，注意数据库中 flag 不是最终答案，最后要用 flag{} 包起来。
 
 [flag.php - Bugku](http://ctf.bugku.com/challenges#flag.php "前往Bugku")

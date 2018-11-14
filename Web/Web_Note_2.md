@@ -15,7 +15,7 @@
   
 **BurpSuite 配合 sqlmap**：  
 遇到SQLi的题目都可以先拿 sqlmap 进行这次做题的时候遇到 POST 注入的。  
-sqlmap 支持导入 HTTP request 文本来进行注入分析。我们就可以使用 BurpSuite 拦截包后，将 request 保存为文件，然后在 sqlmap 中使用 `-p filename` 来运行。 
+sqlmap 支持导入 HTTP request 文本来进行注入分析。我们就可以使用 BurpSuite 拦截包后，将 request 保存为文件，然后在 sqlmap 中使用 `-r filename` 来运行。我们还可以使用 sqlmap 的 `-p` 参数来指定一个 field 来尝试注入。  
   
 **有些时候 SQL 语句中的转义是双引号**
 
