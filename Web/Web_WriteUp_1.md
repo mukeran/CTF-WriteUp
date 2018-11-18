@@ -1,4 +1,6 @@
-# ctf.mukeran.cn/writeups/web/1/
+<!-- WriteUp 1 -->
+<!-- 五道简单题 -->
+# https://ctf.mukeran.cn/web/writeups/1
 
 本次WriteUp中四道题为SQLi，一道题为源代码分析，这是我第一次做CTF题目并写WriteUp，如不规范敬请谅解。  
 因未找到合适的图床，这篇WriteUp里面没有图片，可能以后会补上...

@@ -1,4 +1,8 @@
-# ctf.mukeran.cn/notes/web/2/Code examination and more about SQL
+<!-- Code examination and more about SQL -->
+<!-- 代码审计及 SQL 的补充 -->
+# Code examination and more about SQL | 代码审计及 SQL 的补充
+
+https://ctf.mukeran.cn/web/notes/2
 
 知识点
 ====
@@ -21,5 +25,5 @@ sqlmap 支持导入 HTTP request 文本来进行注入分析。我们就可以�
 
 WriteUp
 ====
-> Web_WriteUp_2.md  
-> https://ctf.mukeran.cn/writeups/web/2/ (not avaliable yet)
+> Web\_WriteUp\_2.md  
+> [CTF-WriteUp | mukeran.cn](https://ctf.mukeran.cn/web/writeups/2)

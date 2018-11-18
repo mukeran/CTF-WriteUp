@@ -1,4 +1,8 @@
-# ctf.mukeran.cn/notes/web/1/First Attempt - SQLi
+<!-- First Attempt - SQLi -->
+<!-- 初次尝试 SQLi -->
+# First Attempt - SQLi | 初次尝试 SQLi
+
+https://ctf.mukeran.cn/web/notes/1
 
 前言
 ====
@@ -81,4 +85,4 @@ WriteUp
 ----
 
 > Web\_WriteUp\_1.md  
-> https://ctf.mukeran.com/writeups/web/1 (not avaliable yet)
+> [CTF-WriteUp | mukeran.cn](https://ctf.mukeran.cn/web/writeups/1)

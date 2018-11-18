@@ -1,4 +1,6 @@
-# ctf.mukeran.cn/writeups/web/2/
+<!-- WriteUp 2 -->
+<!-- 三道简单题 -->
+# https://ctf.mukeran.cn/web/writeups/2
 
 三道题都挺水的
 
