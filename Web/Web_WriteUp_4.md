@@ -8,5 +8,6 @@ Note
 ----
 [https://ctf.mukeran.cn/web/notes/5]
 
-[小明的博客](http://ctf.bugku.com/challenges#%E5%B0%8F%E6%98%8E%E7%9A%84%E5%8D%9A%E5%AE%A2 前往Bugku)
+[小明的博客 - Bugku](http://ctf.bugku.com/challenges#%E5%B0%8F%E6%98%8E%E7%9A%84%E5%8D%9A%E5%AE%A2 "前往Bugku")
 ----
+Typecho 1.0 版本的 BUG，详见上面 Note。
