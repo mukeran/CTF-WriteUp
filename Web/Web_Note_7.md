@@ -38,4 +38,4 @@ AES 是一个常用的对称加密算法。其有一种加密模式为CBC(密码
 ====
 |名称-来源|类型|WriteUp|
 |--------|---|--------|
-|[login4 - Bugku](https://ctf.bugku.com/challenges#login4)|CBC 翻转攻击|[Web_WriteUp_5](https://ctf.mukeran.cn/web/writeups/5)|
+|[login4 - Bugku](https://ctf.bugku.com/challenges#login4)|CBC 翻转攻击|[Web\_WriteUp\_5](https://ctf.mukeran.cn/web/writeups/5)|

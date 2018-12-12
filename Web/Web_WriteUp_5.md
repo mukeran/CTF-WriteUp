@@ -4,7 +4,7 @@
 
 三道题，三道都像密码学
 
-[PHP_encrypt_1(ISCCCTF) - Bugku](https://ctf.bugku.com/challenges#PHP_encrypt_1(ISCCCTF) "前往Bugku")
+[PHP\_encrypt\_1(ISCCCTF) - Bugku](https://ctf.bugku.com/challenges#PHP_encrypt_1(ISCCCTF) "前往Bugku")
 ----
 很简单的代码理解(凯撒)
 
