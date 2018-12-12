@@ -2,11 +2,11 @@
 <!-- 三道题 -->
 # https://ctf.mukeran.cn/web/writeups/5
 
-这三道题可能比较简单啊，因为才水痘回来没什么时间
+三道题，三道都像密码学
 
 [PHP_encrypt_1(ISCCCTF) - Bugku](https://ctf.bugku.com/challenges#PHP_encrypt_1(ISCCCTF) "前往Bugku")
 ----
-很简单的代码理解
+很简单的代码理解(凯撒)
 
 1. 题目给了一串 base64，以及一个 php 源文件。下载下来，发现这个源文件里面就是这个 base64 串的来源。
 2. 文件的内容是：
@@ -56,3 +56,12 @@
     ```
    最后运行 `echo decrypt('{base64 串}');` 即可得到 flag。
 
+[login4 - Bugku](https://ctf.bugku.com/challenges#login4 "前往Bugku")
+----
+CBC 字节翻转攻击  
+1. WriteUp 暂缺
+
+[让我进去 - 实验吧](http://www.shiyanbar.com/ctf/1848 "前往实验吧")
+----
+hash 长度扩展攻击
+1. WriteUp 暂缺
